@@ -3,14 +3,10 @@ date: "2017-06-26T18:27:58+01:00"
 title: "About Me"
 ---
 
-Specialized API writer for the Turvo TMS cloud platform. 
+Hello! I’m Arif, a seasoned user assistance developer, writer, and editor. I specialize in writing for developer audiences —both experts and beginners. In the past I worked at Postman Labs, Turvo, Oracle, and Paysafe - writing API references and testing APIs using Postman.
 
-Documented and updated API reference, authored various collateral for API domain such as API Release Notes, API Integration Guides, [API Getting Started guide](https://help.turvo.com/hc/en-us/articles/19094820990611), [API QuickStart guide]( https://help.turvo.com/hc/en-us/articles/15698664295699) and 
-[Setting Up API Environment](https://help.turvo.com/hc/en-us/articles/19091618683027)
+At Postman, I drove the entire API Platform documentation providing documentation strategy and vision as a lone writer.
 
-Here’s the API auth section - https://app.turvo.com/lobby/documentation.
+My work includes API reference documentation, API tutorials like QuickStart, Getting Started, and API Error Messages. I also worked on SDKs and UX messages. If interested, you can check out my portfolio, services, and philosophy of technical writing.
 
-Authored API descriptions, objects, headers, parameters, requests, and responses in YAML.
-
-Wrote test cases in Postman and tested each parameter of the API considering various scenarios and generated an HTML report using Newman HTML Extra.
-
+I’ve had the pleasure of testing API endpoints while writing API docs for great companies since 2014. Most of my work has been with technology, CRM, Supply Chain and FinTech companies desperate to simplify their help documents.
