@@ -49,10 +49,14 @@ menu:
       weight: 1
     - name: Who am I?
       url: /about/
-      weight: 4
+      weight: 2
     - name: Resume
       url: /resume/
+<<<<<<< HEAD
       weight: 5
+=======
+      weight: 3
+>>>>>>> 506ee25228d27e31f84f6119e5644e4e7a76d146
     - name: Portfolio
       url: /portfolio/
       weight: 4
@@ -61,10 +65,17 @@ menu:
       weight: 5
     - name: Recommendations
       url: /recommendations/
+<<<<<<< HEAD
       weight: 4
     - name: Contact
       url: /contact/
       weight: 5
+=======
+      weight: 6
+    - name: Contact
+      url: /contact/
+      weight: 7
+>>>>>>> 506ee25228d27e31f84f6119e5644e4e7a76d146
 
 
 markup:
