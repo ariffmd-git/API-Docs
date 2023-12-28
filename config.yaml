@@ -50,18 +50,12 @@ menu:
     - name: Who am I?
       url: /about/
       weight: 2
-    - name: Resume
+    - name: [Resume](https://drive.google.com/file/d/1qrf-30SL9xMxdN4a1-2jK8D-Xdxu9Kas/view?usp=sharing) 
       url: /resume/
       weight: 3
     - name: Portfolio
       url: /portfolio/
       weight: 4
-    - name: Open Source
-      url: /opensource/
-      weight: 5
-    - name: Recommendations
-      url: /recommendations/
-      weight: 6
     - name: Contact
       url: /contact/
       weight: 7
