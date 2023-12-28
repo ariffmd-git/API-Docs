@@ -58,7 +58,7 @@ menu:
       weight: 4
     - name: Contact
       url: /contact/
-      weight: 7
+      weight: 5
 
 
 markup:
