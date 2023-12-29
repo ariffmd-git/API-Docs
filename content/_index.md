@@ -1,6 +1,6 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "About Me"
+title: "Arif (Ex-Postman, Oracle Developer Docs Specialist)"
 ---
 
 Hello! I’m Arif, a seasoned user assistance developer, writer, and editor. I specialize in writing for developer audiences —both experts and beginners. In the past I worked at Postman, Turvo, Oracle, and Paysafe - writing API references and testing APIs using Postman. At Postman, I drove the entire API Platform documentation providing documentation strategy and vision as a lone writer.
