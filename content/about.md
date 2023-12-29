@@ -1,16 +1,6 @@
 ---
 date: "2014-04-09"
-title: "About"
+title: "Who AM I?"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I'm Arif Mohammed, a consciousness hacker, a pet lover, a humanist, and a philanthropist. The one who believes every living being on earth has an equal right to live on this planet on their own terms till they live on this planet. 
