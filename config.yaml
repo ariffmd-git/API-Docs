@@ -50,7 +50,7 @@ menu:
     - name: Who am I?
       url: /about/
       weight: 2
-    - name: [Resume](https://drive.google.com/file/d/1qrf-30SL9xMxdN4a1-2jK8D-Xdxu9Kas/view?usp=sharing) 
+    - name: Resume
       url: /resume/
       weight: 3
     - name: Portfolio
