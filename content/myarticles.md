@@ -1,16 +1,15 @@
 ---
-date: "2014-04-09"
-title: "About"
+date: "2024-01-04"
+title: "My Articles"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Welcome to my corner of technical insights! I'm deeply passionate about exploring the intricate realm of technology through the lens of my articles. Each article is a product of my fervent curiosity and love for uncovering the hidden intricacies behind cutting-edge innovations. Join me on this journey as we delve into the dynamic world of technology, unraveling its complexities, and attempting to find solutions or discussing the pain points.
 
-It makes use of a variety of open source projects including:
+Here you go:
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* [Making API Adoption Effortless Through Collateral](https://medium.com/@ArifMohammed/making-api-adoption-effortless-through-collateral-72faf64eaeef)
+* [Single Biggest Reason Yoga is Way Easier Than Anything Else](https://medium.com/@ArifMohammed/one-single-biggest-reason-yoga-is-way-easier-than-anything-else-c2244f9ff49d)
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+
