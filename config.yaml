@@ -56,9 +56,12 @@ menu:
     - name: Portfolio
       url: /portfolio/
       weight: 4
+    - name: My Articles
+      url: /myarticles/
+      weight: 5
     - name: Contact
       url: /contact/
-      weight: 5
+      weight: 6
 
 
 markup:
