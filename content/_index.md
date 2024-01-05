@@ -1,6 +1,9 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
 title: "Arif Mohammed (Ex-Postman, Oracle, - Developer Docs Specialist)"
+noteContent: |
+  <p><strong>I believe the web is for everyone</strong></p>
+  <p>If this site has an accessibility problem, let me know, and I’ll do my best to fix it</p>
 ---
 
 *Great documentation for your software project.*
