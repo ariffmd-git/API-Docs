@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: DeveloperDocs
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -51,7 +51,7 @@ menu:
       url: /about/
       weight: 2
     - name: Resume
-      url: /resume/
+      url: /post/
       weight: 3
     - name: Portfolio
       url: /portfolio/
@@ -59,6 +59,16 @@ menu:
     - name: My Articles
       url: /myarticles/
       weight: 5
+      children:
+        - name: Project 1
+          url: /portfolio/project1/
+          weight: 1
+        - name: Project 2
+          url: /portfolio/project2/
+          weight: 2
+        - name: Project 3
+          url: /portfolio/project3/
+          weight: 3
     - name: Contact
       url: /contact/
       weight: 6
