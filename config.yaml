@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://iampassionatearif.co.in/
 languageCode: en-us
 defaultContentLanguage: en
 title: DeveloperDocs
@@ -51,7 +51,7 @@ menu:
       url: /about/
       weight: 2
     - name: Resume
-      url: /post/
+      url: /resume/
       weight: 3
     - name: Portfolio
       url: /portfolio/

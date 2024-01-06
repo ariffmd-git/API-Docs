@@ -8,9 +8,10 @@ Welcome to my corner of technical insights! I'm deeply passionate about explorin
 Here you go:
 
 ### Professional
-* [Making API Adoption Effortless Through Collateral](https://medium.com/@ArifMohammed/making-api-adoption-effortless-through-collateral-72faf64eaeef){target="_blank"}
+* <a href="https://drive.google.com/file/d/1qrf-30SL9xMxdN4a1-2jK8D-Xdxu9Kas/view?usp=sharing" target="_blank">Making API Adoption Effortless Through Collateral</a>
 
 
 
 ### Leisure
-* [Single Biggest Reason Yoga is Way Easier Than Anything Else](https://medium.com/@ArifMohammed/one-single-biggest-reason-yoga-is-way-easier-than-anything-else-c2244f9ff49d){target="_blank"}
+
+*  <a href="https://medium.com/@ArifMohammed one-single-biggest-reason-yoga-is-way-easier-than-anything-else-c2244f9ff49d" target="_blank">Single Biggest Reason Yoga is Way Easier Than Anything Else</a>
