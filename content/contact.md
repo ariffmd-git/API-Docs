@@ -6,4 +6,4 @@ Let's connect! Whether you're seeking collaboration, have questions, or simply w
 
 ##### My GitHub
 Here's my GitHub page if you'd like to checkout:
-* <a href="https://github.com/ariffmd-git" target="_blank">Arif Mohammed's GitHub Playground</a>
+<a href="https://github.com/ariffmd-git" target="_blank">Arif Mohammed's GitHub Playground</a>
