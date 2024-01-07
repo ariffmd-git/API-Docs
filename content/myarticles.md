@@ -2,11 +2,12 @@
 date: "2024-01-04"
 title: "My Articles"
 ---
-Welcome to my corner of technical insights! I'm deeply passionate about exploring the intricate realm of technology through the lens of my articles. Each article is a product of my fervent curiosity and love for uncovering the hidden intricacies behind cutting-edge innovations. *Join me* on this journey as we delve into the dynamic world of technology, unraveling its complexities, and attempting to *find solutions* or discussing the *pain points*. 
+Welcome to my corner of technical insights! I'm deeply passionate about exploring the intricate realm of technology through the lens of my articles. Each article is a product of my fervent curiosity and love for uncovering the hidden intricacies behind cutting-edge innovations. *Join me* on this journey as we delve into the dynamic world of technology, unraveling its complexities, and attempting to *find solutions* while discussing the *pain points*. 
 
 **Here you go**:
 ### Professional
-* <a href="https://drive.google.com/file/d/1qrf-30SL9xMxdN4a1-2jK8D-Xdxu9Kas/view?usp=sharing" target="_blank">Making API Adoption Effortless Through Collateral</a>
+* <a href="https://medium.com/@ArifMohammed/making-api-adoption-effortless-through-collateral-72faf64eaeef" target="_blank">Making API Adoption Effortless Through Collateral</a>
+* <a href="https://medium.com/@ArifMohammed/api-error-messages-giving-a-human-touch-5d9fc3ceeac0" target="_blank">API Error Messages — Giving a Human Touch!</a>
 
 ### Leisure
 *  <a href="https://www.linkedin.com/pulse/20140712083222-30278136-six-short-cuts-to-instant-popularity-at-work/" target="_blank">Six Short Cuts to Instant Popularity at Work</a>
