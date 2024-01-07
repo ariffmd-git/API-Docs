@@ -13,4 +13,4 @@ Hello! I’m Arif,, a seasoned user assistance developer, writer, and editor. I 
 
 My work includes API reference documentation, API tutorials like **API QuickStart**, **API Getting Started** guides, **API Error Messages**, and so on. I also worked on **SDKs and Microcopy**. If interested, you can check out my portfolio page on this site. 
 
-I’ve had the experience of testing API endpoints while writing API docs for companies since 2014. Most of my work has been with technology, mainly CRM, Supply Chain, and FinTech, and Logistics companies eager to simplify their API adoption while offering a better developer experience.
+I’ve had the experience of testing API endpoints while writing API docs for companies since 2014. Most of my work has been with technology, mainly CRM, Supply Chain, FinTech, and Logistics companies eager to simplify their API adoption while offering a better developer experience.
