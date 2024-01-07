@@ -557,7 +557,7 @@ main {
     display: block;
     counter-reset: fig;
     min-height: 100vh;
-    font-size: 15px; /* Adjust the font size as needed */
+    font-size: 16px; /* Adjust the font size as needed for content paras */
 }
 figcaption::before {
     counter-increment: fig;
