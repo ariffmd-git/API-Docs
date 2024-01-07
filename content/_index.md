@@ -9,8 +9,8 @@ noteContent: |
 <u>*Great API reference and developer documentation for your software projects!!!*</u>
 
 
-Hello! I’m Arif,, a seasoned user assistance developer, writer, and editor. I specialize in writing for developer audiences —both experts and beginners. In the past, I worked at Postman, Turvo, Oracle, and Paysafe - writing API references and testing APIs using Postman. At Postman, I drove the entire API Platform documentation, providing documentation strategy and vision as a lone writer.
+Hello! I’m Arif,, a seasoned user assistance developer, writer, and editor. I specialize in writing for developer audiences —both experts and beginners. In the past, I worked at **Postman**, **Turvo**, **Oracle**, and **Paysafe** - writing API references and testing APIs using *Postman*. At Postman, I drove the entire API Platform documentation, providing documentation strategy and vision as a lone writer.
 
-My work includes API reference documentation, API tutorials like QuickStart, Getting Started, and API Error Messages. I also worked on SDKs and UX messages. If interested, you can check out my portfolio, services, and philosophy of technical writing.
+My work includes API reference documentation, API tutorials like **API QuickStart**, **API Getting Started** guides, **API Error Messages**, and so on. I also worked on **SDKs and Microcopy**. If interested, you can check out my portfolio page on this site. 
 
-I’ve had the pleasure of testing API endpoints while writing API docs for companies since 2014. Most of my work has been with technology, mainly CRM, Supply Chain, and FinTech companies eager to simplify their API adoption while offering a better developer experience.
+I’ve had the experience of testing API endpoints while writing API docs for companies since 2014. Most of my work has been with technology, mainly CRM, Supply Chain, and FinTech, and Logistics companies eager to simplify their API adoption while offering a better developer experience.
