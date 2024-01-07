@@ -2,7 +2,7 @@
 date: "2024-01-04"
 title: "My Articles"
 ---
-Welcome to my corner of technical insights! I'm deeply passionate about exploring the intricate realm of technology through the lens of my articles. Each article is a product of my fervent curiosity and love for uncovering the hidden intricacies behind cutting-edge innovations. *Join me* on this journey as we delve into the dynamic world of technology, unraveling its complexities, and attempting to *find solutions* while discussing the *pain points*. 
+Welcome to my corner of technical and social insights! I'm deeply passionate about exploring the intricate realm of technology through the lens of my articles. Each article is a product of my fervent curiosity and love for uncovering the hidden intricacies behind cutting-edge innovations. *Join me* on this journey as we delve into the dynamic world of technology, unraveling its complexities, and attempting to *find solutions* while discussing the *pain points*. 
 
 **Here you go**:
 ### Professional
