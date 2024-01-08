@@ -6,7 +6,7 @@ noteContent: |
   <p><strong>If you try, you may fail; if you don't, you ensure it!!</strong></p>
   <p>If this site does not have a 200 OK, let me know, I’ll do my best to fix the 404 error!</p>
 ---
-<u>*Great API reference and developer documentation for your software products!!!*</u>
+<u>Great Developer Documentation** and API reference for your software products!!!</u>
 
 
 Hello! I’m Arif,, a seasoned user assistance developer, writer, and editor. I specialize in writing for developer audiences —both experts and beginners. In the past, I worked at **Postman**, **Turvo**, **Oracle**, and **Paysafe** - writing API references and testing APIs using *Postman*. At Postman, I drove the entire API Platform documentation, providing documentation strategy and vision as a lone writer.
