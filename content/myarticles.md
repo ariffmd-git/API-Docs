@@ -6,7 +6,7 @@ Welcome to my corner of technical and social insights! I'm deeply passionate abo
 
 **Here you go**:
 ### Professional
-* <a href="https://medium.com/@ArifMohammed/making-api-adoption-effortless-through-collateral-72faf64eaeef" target="_blank">Making API Adoption Effortless</a>
+* <a href="https://www.linkedin.com/pulse/making-api-adoption-effortless-arif-mohammed-davrc/" target="_blank">Making API Adoption Effortless</a>
 * <a href="https://medium.com/@ArifMohammed/api-error-messages-giving-a-human-touch-5d9fc3ceeac0" target="_blank">API Error Messages — Giving a Human Touch!</a>
 
 ### Leisure
