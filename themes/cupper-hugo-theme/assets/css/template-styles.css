@@ -32,7 +32,7 @@ template {
   display: none !important;
 }
 * + * {
-    margin-top: 1rem;
+    margin-top: .75rem;
 }
 br,
 dt,
