@@ -53,7 +53,7 @@ menu:
     - name: Resume
       url: /resume/
       weight: 3
-      - name: Skills
+    - name: Skills
       url: /skills/
       weight: 4
     - name: Portfolio
