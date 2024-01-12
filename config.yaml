@@ -53,12 +53,15 @@ menu:
     - name: Resume
       url: /resume/
       weight: 3
+      - name: Skills
+      url: /skills/
+      weight: 4
     - name: Portfolio
       url: /portfolio/
-      weight: 4
+      weight: 5
     - name: My Articles
       url: /myarticles/
-      weight: 5
+      weight: 6
       children:
         - name: Project 1
           url: /portfolio/project1/
@@ -71,7 +74,7 @@ menu:
           weight: 3
     - name: Contact
       url: /contact/
-      weight: 6
+      weight: 7
 
 
 markup:
