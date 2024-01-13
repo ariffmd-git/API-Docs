@@ -11,9 +11,7 @@ Technical communication  Content strategy  Information architecture  Produ
 Implementation guides  Online help  User guides  Release notes  Technical specifications  Developer docs  Wikis  API documentation  Error messages  Product content  Developer Portals
 
 ### Tools
-
 Hands-on experience in MS Office, SnagIT, Visio, Swagger, Github, Miro, Perforce, Captivate, MadCap Flare, Jenkins, JSON, REST, Git, Markdown, My SQL and XML. Exposure to Java and Python. RestructuredText, Swagger OAS, and YAML.
-
 
 
 
