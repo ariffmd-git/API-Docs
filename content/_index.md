@@ -9,7 +9,7 @@ noteContent: |
 <u>Great Developer Documentation and API reference for your software products!!!</u>
 
 
-Hello! I’m Arif,, a seasoned user assistance developer, writer, and editor. I specialize in writing for developer audiences —both experts and beginners. In the past, I worked at **Postman**, **Turvo**, **Oracle**, and **Paysafe** - writing API references and testing APIs using *Postman*. At Postman, I drove the entire API Platform documentation, providing documentation strategy and vision as a lone writer.
+Hello! I’m Arif, a seasoned user assistance developer, writer, and editor. I specialize in writing for developer audiences —both experts and beginners. In the past, I worked at **Postman**, **Turvo**, **Oracle**, and **Paysafe** - writing API references and testing APIs using *Postman*. At Postman, I drove the entire API Platform documentation, providing documentation strategy and vision as a lone writer.
 
 My work includes API reference documentation, API tutorials like **API QuickStart**, **API Getting Started** guides, **API Error Messages**, and so on. I also worked on **SDKs and Microcopy**. If interested, you can check out my portfolio page on this site. 
 
