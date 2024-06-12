@@ -18,7 +18,7 @@ I’ve had the experience of testing API endpoints while writing API docs for co
 ### My Professional Endeavors
 * I make unfamiliar things look less frightening.
 * I write menu names, button names, option labels, dialog box headings, error messages, notifications, and every little thing you see on user interfaces.
-* I also write HowTos, tutorials, API references, admin and deployment guides, and other long-form text that you need to get a software up and running and using it.
+* I also write HowTos, Tutorials, API references, admin and deployment guides, and other long-form text that you need to get a software up and running and using it.
 * Sometimes, I make videos.
 * At other times, I draw wireframes and prototypes for user interfaces.
 * At all times, I remain curious. Because, that’s what helps me write for you — my reader — you who will use my words to get your task done as fast as possible.
