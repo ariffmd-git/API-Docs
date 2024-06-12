@@ -3,7 +3,7 @@ date: "2024-01-04"
 title: "Resume"
 ---
 
-Please click here to download a copy of my <a href="https://drive.google.com/file/d/1-BAIKjgK0vp5H7A1Cb5epphVZNJHru0G/view?usp=drive_link" target="_blank">resume</a>
+Please click here to download a copy of my <a href="https://drive.google.com/file/d/1IcIlTOnbvsuo-O4MqU6KDww3iWdyTCMf/view?usp=sharing" target="_blank">resume</a>
 
 #### Where Am I Headed?
 
