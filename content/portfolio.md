@@ -3,7 +3,7 @@ date: "2024-01-04"
 title: "Portfolio"
 ---
 
-Welcome to my portfolio— a curated showcase of my passion, creativity, and expertise. Explore a collection that embodies my dedication to *API Docs* through projects that speak volumes about my journey and aspirations.
+Welcome to my portfolio — a curated showcase of my passion, creativity, and expertise. Explore a collection that embodies my dedication to *API Docs* through projects that speak volumes about my journey and aspirations.
 
 ##### API Getting Started and API QuickStart Guides
 * <a href="https://drive.google.com/file/d/1U78twglan2a5prYRLE2Rdm_OfSIWoLSR/view?usp=drive_link" target="_blank">Turvo API Quick Start Guide</a>
