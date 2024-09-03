@@ -6,8 +6,8 @@ title: "Portfolio"
 Welcome to my portfolio— a curated showcase of my passion, creativity, and expertise. Explore a collection that embodies my dedication to *API Docs* through projects that speak volumes about my journey and aspirations.
 
 ##### API Getting Started and API QuickStart Guides
-* <a href="https://help.turvo.com/hc/en-us/articles/15698664295699" target="_blank">Turvo API Quick Start Guide</a>
-* <a href="https://help.turvo.com/hc/en-us/articles/19094820990611-API-Getting-Started-Guide" target="_blank">Turvo API Getting Started Guide</a>
+* <a href="https://drive.google.com/file/d/1U78twglan2a5prYRLE2Rdm_OfSIWoLSR/view?usp=drive_link" target="_blank">Turvo API Quick Start Guide</a>
+* <a href="https://drive.google.com/file/d/1YC5ud7p-sc_Ulx1uvwzqyxYAPaimakhj/view?usp=drive_link" target="_blank">Turvo API Getting Started Guide</a>
 
 ##### API Auth Section
 * <a href="https://app.turvo.com/lobby/documentation#tag/Authentication" target="_blank">Turvo API Authentication section</a>
