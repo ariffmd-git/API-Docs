@@ -3,9 +3,9 @@ date: "2024-01-04"
 title: "Resume"
 ---
 
-Please click here to download a copy of my <a href="https://drive.google.com/file/d/1Kem8rfI6S6DLZFRxC07uUkvznTLOJKH_/view?usp=sharing" target="_blank">
-  View File on Google Drive
-</a>>resume</a>
+<a href="https://drive.google.com/file/d/1Kem8rfI6S6DLZFRxC07uUkvznTLOJKH_/view?usp=sharing" target="_blank">
+  View my resume
+</a>
 
 #### Where Am I Headed?
 
