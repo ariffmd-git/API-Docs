@@ -3,7 +3,7 @@ date: "2024-01-04"
 title: "Resume"
 ---
 
-<a href="https://drive.google.com/file/d/1Kem8rfI6S6DLZFRxC07uUkvznTLOJKH_/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1Xq5GtDpwni49p4W5Z9ZWucqIp-wKpcQJ/view?usp=drive_link" target="_blank">
   View my resume
 </a>
 
