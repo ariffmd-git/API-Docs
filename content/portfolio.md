@@ -17,7 +17,7 @@ Welcome to my portfolio — a curated showcase of my passion, creativity, and ex
 
 ##### API Auth Section
 * <a href="https://app.turvo.com/lobby/documentation#tag/Authentication" target="_blank">Turvo API Authentication section</a>
-* <a href="https://kb.demandbase.com/hc/en-us/articles/7273739712795-Authentication-and-Authorization-Overview" target="_blank">Authentication and Authorization Overview</a>
+* <a href="https://kb.demandbase.com/hc/en-us/articles/7273739712795-Authentication-and-Authorization-Overview" target="_blank">Demandbase Authentication Overview</a>
 
 ##### API Reference Docs
 * <a href="https://app.turvo.com/lobby/documentation" target="_blank">Turvo API Reference</a>
