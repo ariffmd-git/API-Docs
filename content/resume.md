@@ -9,4 +9,4 @@ title: "Resume"
 
 #### Where Am I Headed?
 
-In the near future, I intend to be a *Programmer Writer* and a *Developer Advocate* for **DevPortals**. I am part of the Provonix Developer Portal community and I'm now learning JavaScript and GoLang fundamentals to up my programming knowledge. 
+In the near future, I intend to be a *Programmer Writer* and a *Developer Advocate* for **DevPortals**. I am part of the Provonix Developer Portal community and I'm now learning JavaScript, GoLang fundamentals, and using OpenAI TTS APIs real time expanding my AI credentials. 
