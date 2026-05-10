@@ -1,7 +1,7 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
 title: "Arif Mohammed"
-subTitle: "(Google|Ex-Postman, Oracle - DevDocs Specialist)"
+subTitle: "(Google | Ex-Postman, Oracle-DevDocs Specialist)"
 noteContent: |
   <p><strong>If you try, you may fail; if you don't, you ensure it!!</strong></p>
   <p>If this site does not have a 200 OK, let me know, I’ll do my best to fix the 404 error!</p>
